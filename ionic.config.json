@@ -1,0 +1,7 @@
+{
+  "name": "infoCrypto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
